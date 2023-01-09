@@ -1,2 +1,4 @@
-# BUS462_Spring23
-Code Repo for Business Analytics BUS 462
+# BUS-462_Spring 2023
+Code Repo for Business Analytics BUS 462 ver.Spring 2023
+
+It is hard, but you will thank me in 2-5 years
