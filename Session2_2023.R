@@ -5,10 +5,9 @@
 # CK 
 # 16 JAN 2023 
 ## REFERENCES / Attribution: 
-# (1) https://data.princeton.edu/R/gettingStarted ,
-# (2) https://bookdown.org/animestina/R_Manchester/basic-principles-of-r-programming.html 
-# (3) for functions: https://swcarpentry.github.io/r-novice-inflammation/02-func-R/ 
-# (4) for plotting:https://www.w3schools.com/r/r_graph_plot.asp and  https://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html 
+# (1) Basic Intro: https://bookdown.org/animestina/R_Manchester/basic-principles-of-r-programming.html 
+# (2) Functions: https://swcarpentry.github.io/r-novice-inflammation/02-func-R/ 
+# (3) Base Plotting: https://www.w3schools.com/r/r_graph_plot.asp and  https://rstudio-pubs-static.s3.amazonaws.com/7953_4e3efd5b9415444ca065b1167862c349.html 
 ############################################################
 
 
