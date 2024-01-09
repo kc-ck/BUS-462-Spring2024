@@ -1,9 +1,9 @@
 
 ############################################################
-# BUS 462 | Spring 2023 | Session 1
+# BUS 462 | Spring 2024 | Session 1
 # Getting Started with R 
 # CK 
-# 09 JAN 2023 
+# 19 JAN 2024 
 ## REFERENCES / Attribution: 
 # (1) https://data.princeton.edu/R/gettingStarted ,
 # (2) https://bookdown.org/animestina/R_Manchester/basic-principles-of-r-programming.html 
